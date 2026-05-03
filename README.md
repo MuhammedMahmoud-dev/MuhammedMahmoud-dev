@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Hi there 👋, I'm Muhammed Mahmoud
+I'm Muhammed Mahmoud
 
 💻 **Frontend Developer** | 🎓 Computer Science Student @ Nile University (Expected 2026)
 ⚡ Passionate about building clean & creative web experiences.

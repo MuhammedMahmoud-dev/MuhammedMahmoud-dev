@@ -1,48 +1,39 @@
-## Hi there 👋
-I'm Muhammed Mahmoud
+# Muhammed Mahmoud
 
-💻 **Frontend Developer** | 🎓 Computer Science Student @ Nile University (Expected 2026)
-⚡ Passionate about building clean & creative web experiences.
+**Backend Engineer · Co-Founder of [ORVEN](https://github.com/ORVEN-dev)** — Giza, Egypt
 
----
+I build what sits behind web applications: APIs, databases, authentication and deployment — and I write the tests that catch my own mistakes.
+Computer Science graduate, Nile University (2026). Through ORVEN, a web design and development agency in Egypt, I lead the backend side of client websites and web apps.
 
-## 🚀 Skills & Tools
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=white)
+[Portfolio](https://muhammedmahmoud.vercel.app/en) · [LinkedIn](https://linkedin.com/in/muhammed-mahmoud-7b933933b) · [ORVEN](https://orven.orven-agency01.workers.dev/en/) · [Email](mailto:moo7ameed222666@gmail.com)
 
 ---
 
-## 📌 Featured Projects
+### Selected work
 
-* 🔹 **[Nile and Beans Café Backend](https://github.com/your-repo)** — FastAPI + SQLite backend for an online café.
-* 🔹 **[Frontend Mentor Challenges](https://github.com/your-repo)** — Real-world frontend projects using HTML, CSS, and JS.
-* 🔹 **[Operating System Projects](https://github.com/your-repo)** — xv6 system programming & process tree implementation.
+**Future Interiors** — production web app for a finishing and renovation business
+Bilingual marketing site, client project-tracking portal and admin dashboard, in daily use by a paying client. I own the backend, database, auth and deployment.
+`Next.js` `TypeScript` `Supabase` `PostgreSQL` · 93 unit tests · 6 SQL migrations
+[Case study](https://muhammedmahmoud.vercel.app/en/work/future-interiors)
 
----
+**Nile & Bean** — café ordering platform, rebuilt end to end
+Took over a five-person university project, audited it, removed 16k+ lines of dead code and rebuilt the backend into a 19-endpoint API with 123 tests.
+`FastAPI` `SQLAlchemy` `SQLite` `Alembic` `pytest`
+[Case study](https://muhammedmahmoud.vercel.app/en/work/nile-and-bean)
 
-## 🌱 Currently Learning
-
-* React & Advanced Frontend Patterns
-* Full-Stack Development with APIs
-
----
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-mahmoud-7b933933b/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:moo7ameed222666@gmail.com)
+**Market Basket Analysis** — data warehouse and association rules
+Star-schema warehouse over Online Retail II; three association-rule algorithms benchmarked against each other.
+`Python` `SQL` `pandas` `mlxtend`
+[Case study](https://muhammedmahmoud.vercel.app/en/work/market-basket-analysis)
 
 ---
 
-✨ *“Turning ideas into interactive experiences.”*
+### Stack
 
+**Core** — PostgreSQL · Supabase · TypeScript · Node.js · Next.js · REST APIs
+**Working** — Express · FastAPI · Python · Vercel · Git
+**Familiar** — Docker · MongoDB · SQL tooling
+
+---
+
+Open to backend-focused roles. For website and web app projects, reach out through [ORVEN](https://orven.orven-agency01.workers.dev/en/).
